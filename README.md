@@ -26,13 +26,6 @@ CONDITION_DIRS = {
 }
 ```
 
-## Paleidimas
-
-```bash
-pip install -r requirements.txt
-python plf_heatmap.py
-python plf_statistics.py
-```
 
 ## Metodai
 
